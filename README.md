@@ -1,6 +1,6 @@
-### Hello World, I'm Imane Sbai !👋
+<!--### Hello World, I'm Imane Sbai !👋
 
-<!--
+
 **imane-sbai/imane-sbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=imane-sbai)-->
+-->
